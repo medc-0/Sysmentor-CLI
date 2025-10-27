@@ -13,7 +13,7 @@
 
 ## Showcasing
 
-![runtime](/screenshots/homepage.png)
+![runtime](/screenshots/showcase1.png)
 
 ## Installation
 
